@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="skiLol.png">
+<SubTexture name="ski0000" x="583" y="0" width="308" height="421" frameX="0" frameY="-21" frameWidth="309" frameHeight="443" />
+<SubTexture name="ski0001" x="583" y="0" width="308" height="421" frameX="0" frameY="-21" frameWidth="309" frameHeight="443" />
+<SubTexture name="ski0002" x="287" y="0" width="296" height="434" frameX="-6" frameY="-8" frameWidth="309" frameHeight="443" />
+<SubTexture name="ski0003" x="287" y="0" width="296" height="434" frameX="-6" frameY="-8" frameWidth="309" frameHeight="443" />
+<SubTexture name="ski0004" x="0" y="0" width="287" height="442" frameX="-10" frameY="0" frameWidth="309" frameHeight="443" />
+<SubTexture name="ski0005" x="0" y="0" width="287" height="442" frameX="-10" frameY="0" frameWidth="309" frameHeight="443" />
+<SubTexture name="ski0006" x="0" y="0" width="287" height="442" frameX="-10" frameY="0" frameWidth="309" frameHeight="443" />
+<SubTexture name="ski0007" x="0" y="0" width="287" height="442" frameX="-10" frameY="0" frameWidth="309" frameHeight="443" />
+<SubTexture name="ski0008" x="0" y="0" width="287" height="442" frameX="-10" frameY="0" frameWidth="309" frameHeight="443" />
+</TextureAtlas>
